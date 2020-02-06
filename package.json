@@ -1,0 +1,31 @@
+{
+  "name": "workshop-wiki",
+  "version": "0.2.0",
+  "description": "A resource dedicated to helping anyone develop workshop modes",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "cd docs && vuepress dev",
+    "temp": "cd docs && vuepress dev --temp .temp",
+    "build": "cd docs && vuepress build",
+    "help": "vuepress --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SussieRawrin/workshop-wiki.git"
+  },
+  "keywords": [
+    "Overwatch",
+    "Workshop",
+    "Wiki",
+    "Vue"
+  ],
+  "author": "SussieRawrin",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/SussieRawrin/workshop-wiki/issues"
+  },
+  "homepage": "https://github.com/SussieRawrin/workshop-wiki#readme"
+}
