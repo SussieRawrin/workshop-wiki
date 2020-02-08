@@ -42,6 +42,7 @@ module.exports = {
         children: [
           'guides/',
           'guides/help',
+          ['guides/contribute', 'How to contribute to this Wiki'],
         ]
       },
     ],
