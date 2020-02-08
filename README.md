@@ -28,4 +28,4 @@ We know [Overwatch Workshop]() can be a difficult beast to tackle. As the *<smal
 - [examples]() - find any examples that might help you in your project here
 - [contribute]() - if you have any knowledge to contribute (or you found a mistake), you can edit stuff here
 - [share projects]() - to share projects, head over to our main page
-- [ask for help]() - if you need immediate help, head over to our discord! We have text channels dedicated to helping you create and test these projects
+- [ask for help]() - if you need immediate help, head over to our discord! We have text channels dedicated to helping you create and test these projects 
